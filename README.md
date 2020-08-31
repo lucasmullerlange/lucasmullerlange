@@ -26,7 +26,7 @@
 
 <p align="center">
     <a href="" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmullerlange" height="20" width="20" />
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmullerlange" height="20" width="20" color="blue"/>
     </a>
  
 </p>

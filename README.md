@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <p align="center">Hi there, I'm Lucas Lange  :relaxed: </p> 
 <p align="center"> I live in  Brazil  </p>
-<p align="center"> I Speak English  :us: :uk: </p> 
+<p align="center"> English speaker  :us: :uk: </p> 
 
 
 <h3 align="center"></h3>

@@ -1,5 +1,6 @@
 <h1 align="center"></h1>
-<p align="center">Hi there, I'm lucas lange  :relaxed: </p>
+<p align="center">Hi there, I'm Lucas Lange  :relaxed: </p> 
+<p alig="center"> I Speak English  :us: :uk: </p> 
 
 
 <h3 align="center"></h3>

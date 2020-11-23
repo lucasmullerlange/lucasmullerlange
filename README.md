@@ -9,9 +9,8 @@
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/badge/language-HTML-red"/>
-    <img src="https://img.shields.io/badge/language-css-blue"/>
-    <img src="https://camo.githubusercontent.com/71e3c077d7be422cc46333de8cbea7db50a3040eafeea4c55ad6553ba58729ef/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667" alt="java" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" style="max-width:100%;">
+   <img src="https://camo.githubusercontent.com/8d2dcf428df123dd085c5be7ca03d67750e647187fbeeb6d37ed7de5611e4b73/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2d776f72646d61726b2e737667" alt="mysql" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" style="max-width:100%;">
+      <img src="https://camo.githubusercontent.com/71e3c077d7be422cc46333de8cbea7db50a3040eafeea4c55ad6553ba58729ef/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176612f6a6176612d6f726967696e616c2d776f72646d61726b2e737667" alt="java" width="40" height="40" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" style="max-width:100%;">
 </p>
 
 

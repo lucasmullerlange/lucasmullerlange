@@ -7,7 +7,7 @@
    
 </p>
 
-<h3 align="center">Link's for my profile </h3>
+<h3 align="center">Number views </h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>

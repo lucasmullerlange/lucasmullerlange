@@ -1,5 +1,6 @@
 <h1 align="center"></h1>
 <p align="center">Hi there, I'm Lucas Lange  :relaxed: </p> 
+<p align="center"> I live in  Brazil :br: </p>
 <p align="center"> I Speak English  :us: :uk: </p> 
 
 

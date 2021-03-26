@@ -15,10 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
 </p>
 
-<p align="center"> 
-    <img src="https://www.flaticon.com/svg/vstatic/svg/919/919825.svg?token=exp=1616794840~hmac=8c46ad50503b3d298e01a707718abbfd">   
-   
-</p>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true" alt="lucasmullerlange"/>
 </p>

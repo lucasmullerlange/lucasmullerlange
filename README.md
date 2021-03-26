@@ -17,9 +17,8 @@
 
 <p aling="center">
 
-  <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a>
+   <img src="https://www.flaticon.com/br/" alt="Flaticon">
 </p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true" alt="lucasmullerlange"/>
 </p>

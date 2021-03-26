@@ -19,7 +19,7 @@
     <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" alt="lucasmullerlange"/>
 </p>
 <p align="center">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="lucasmullerlange"/>
+    <img src="" alt="lucasmullerlange"/>
 </p>
 
 <p align="center">

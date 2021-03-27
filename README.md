@@ -14,13 +14,8 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
 </p>
-<p align="center"> 
-  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919851.svg?token=exp=1616886556~hmac=0f91b4804f109aa333221052b1211bb8">
-  
-</p>
-<p align="center">
-    <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" alt="lucasmullerlange"/>
-</p>
+
+
 <p align="center">
     <img src="" alt="lucasmullerlange"/>
 </p>

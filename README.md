@@ -3,13 +3,10 @@
 <p align="center"> I live in  Brazil  </p>
 <p align="center"> English speaker  :us: :uk: </p> 
 
-
-<h3 align="center"></h3>
-<p align="center">
    
 </p>
 
-<p text-align="center">
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange " alt="lucasmullerlange"/>
 </p>
 <p> 

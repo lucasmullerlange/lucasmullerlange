@@ -15,7 +15,7 @@
  </p
   <p align="left>
     <a href="" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmullerlange" height="40" width="40" color="blue"/>
+        <img align="right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmullerlange" height="40" width="40" color="blue"/>
     </a>
  
 </p>

@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
+    <img src="https://komarev.com/ghpvc/?username=lucasmullerlange " position="center" alt="lucasmullerlange"/>
 </p>
 <p> 
    <a href="https://www.w3schools.com/css/" target="_blank"> 

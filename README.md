@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
 </p>
 <p align="center"> 
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconspng.com%2Fimage%2F139705%2Freact-logo-icon&psig=AOvVaw1W-cyFAjOMCVVHcfXbN57F&ust=1616971072950000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCWy-XE0e8CFQAAAAAdAAAAABAI">
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AReact-icon.svg&psig=AOvVaw0fK7U7SiXeXu0eSvoWlryg&ust=1616971207064000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC4tqXF0e8CFQAAAAAdAAAAABAD">
 </p>
 <p align="center">
     <img src="https://www.adobe.com/content/dam/cc/us/en/products/xd/home/XD_lockup.svg" alt="lucasmullerlange"/>

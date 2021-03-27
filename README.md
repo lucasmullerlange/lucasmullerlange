@@ -10,13 +10,12 @@
 </p>
 
 <h3 align="center">Number views </h3>
-
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.js" alt="lucasmullerlange"/>
+</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
 </p>
-<p align="center"
-       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.js" alt="css3">
-</p> 
 
 <p align="center">
     <img src="" alt="lucasmullerlange"/>

@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
 </p>
 <p align="center"> 
-   <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+  <img src="https://www.flaticon.com/svg/vstatic/svg/919/919851.svg?token=exp=1616886556~hmac=0f91b4804f109aa333221052b1211bb8">
   
 </p>
 <p align="center">

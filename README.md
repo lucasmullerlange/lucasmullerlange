@@ -1,4 +1,5 @@
-<h3 align="center">Tecnology : !</h3>
+<h3> Hi there <h3> 
+<h3 align="center">Tecnology </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/language-JavaScript-yellow"/>
     <img src="https://img.shields.io/badge/language-TypeScript-blue"/>

@@ -20,9 +20,6 @@
     <img src="" alt="lucasmullerlange"/>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true" alt="lucasmullerlange"/>
-</p>
 
 <p align="center">
     <a href="" target="blank">

@@ -15,7 +15,7 @@
     <img src="https://komarev.com/ghpvc/?username=lucasmullerlange" alt="lucasmullerlange"/>
 </p>
 <p align="center"
-       <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3">
+       <img align="center" src="<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" alt="css3">
 </p> 
 
 <p align="center">

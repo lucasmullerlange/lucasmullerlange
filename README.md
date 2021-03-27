@@ -17,7 +17,7 @@
    <a href="https://www.w3schools.com/css/" target="_blank"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="40" height="40"/> 
   </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css"" target="_blank"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css""alt="javascript" width="40" height="40"/> 
       
   </a>

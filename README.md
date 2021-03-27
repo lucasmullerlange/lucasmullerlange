@@ -9,8 +9,8 @@
    
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=lucasmullerlange " position="center" alt="lucasmullerlange"/>
+<p text-align="center">
+    <img src="https://komarev.com/ghpvc/?username=lucasmullerlange " alt="lucasmullerlange"/>
 </p>
 <p> 
    <a href="https://www.w3schools.com/css/" target="_blank"> 

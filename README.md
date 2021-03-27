@@ -15,7 +15,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank">  </a>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt="css3" width="40" height="40"/> 
  </p
-  <p>
+  <p align="center>
     <a href="" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmullerlange" height="40" width="40" color="blue"/>
     </a>

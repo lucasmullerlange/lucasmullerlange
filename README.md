@@ -1,6 +1,7 @@
+<h1 aling="center"> Hi there, I'm Lucas Lange 🧝‍♂️<h1>
 <h2 align="center" border="1px "> 📌 Welcome to my github 📌 <h4>  
 <h4 align="center" border="1px"> English speaker 🇬🇧 🇺🇸  <h4> 
-<h4 align="center"> Platform tools <h4>
+<h4 align="center"> Platform tools : <h4>
 <p align="center">
  <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
  </a>

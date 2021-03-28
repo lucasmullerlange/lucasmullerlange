@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <h1 align="center"> Hi there, I'm Lucas Lange </h1>
-<h1 align="center">  Living in Brazil 🇧🇷 </h1>  
+<h1 align="center">   Brazilian  🇧🇷 </h1>  
 <h4 align="center"> English speaker 🇬🇧 🇺🇸  <h4> 
 <h4 align="center"> Platform tools  <h4>
  </p>

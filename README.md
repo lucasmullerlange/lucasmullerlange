@@ -1,9 +1,10 @@
-
+<p aling="center">
 <h2 align="center"> :atom: Welcome to my github :atom: <h4> 
-<h4 aling="left"> Hi there, I'm Lucas Lange 🧝‍♂️</h4>
-<h4 aling="right"> I'm from Brazil 🇧🇷 <h4>
+<h4 aling="center"> Hi there, I'm Lucas Lange 🧝‍♂️</h4>
+<h4 aling="center"> I'm from Brazil 🇧🇷 <h4>
 <h4 align="center"> English speaker 🇬🇧 🇺🇸  <h4> 
 <h4 align="center"> Platform tools  <h4>
+ </p>
 <p align="center">
  <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
  </a>

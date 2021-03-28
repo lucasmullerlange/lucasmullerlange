@@ -1,4 +1,4 @@
-<h1 aling="center"> Hi there, I'm Lucas Lange 🧝‍♂️<h1>
+<p aling="right"> Hi there, I'm Lucas Lange 🧝‍♂️</p>
 <h4 aling="center"> I'm from Brazil 🇧🇷 <h4>
 <h2 align="center"> :atom: Welcome to my github :atom: <h4>  
 <h4 align="center"> English speaker 🇬🇧 🇺🇸  <h4> 

@@ -3,8 +3,6 @@
 <h3 align="center" border="1px"> English speaker 🇬🇧 🇺🇸  <h3> 
 <h3 align="center"> Platform tools <h3>
 <p align="center">
- 
-
  <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
  </a>
  

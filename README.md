@@ -27,8 +27,9 @@
   </a>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LucasLange&show_icons=true" alt="LucasLange"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true" alt="LucasLange"/>
 </p>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/lucas-lange-28a38a123/" target="blank">

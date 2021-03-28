@@ -21,7 +21,7 @@
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
   </a>
 </p>
-<p align="center">
+ <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasLange&show_icons=true" alt="LucasLange"/>
 </p>
 <p align="center">

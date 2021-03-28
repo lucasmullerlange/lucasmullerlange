@@ -1,7 +1,6 @@
 <p aling="center">
-<h2 align="center"> :atom: Welcome to my github :atom: <h4> 
-<h4 aling="center"> Hi there, I'm Lucas Lange 🧝‍♂️</h4>
-<h4 aling="center"> I'm from Brazil 🇧🇷 <h4>
+<h1 aling="center"> Hi there, I'm Lucas Lange 🧝‍♂️
+  Live in Brazil 🇧🇷 <h1>
 <h4 align="center"> English speaker 🇬🇧 🇺🇸  <h4> 
 <h4 align="center"> Platform tools  <h4>
  </p>

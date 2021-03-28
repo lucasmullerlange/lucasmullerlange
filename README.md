@@ -1,8 +1,8 @@
-<h3 align="center"> Welcome to my github <h3> 
-<h3 align="center">Human developing the machine 💻   <h3> 
+<h1 align="center" border="1px ">  📌 Welcome to my github 📌 <h1> 
 
-
-
+<h3 align="center" border="1px"> Human developing the machine 💻   <h3> 
+ 
+<h3 align="center" border="1px"> English speaker 🇬🇧 🇺🇸  <h3> 
 <p align="center">
  <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
  </a>
@@ -15,6 +15,9 @@
   </a>
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="50" height="50"/> 
   </a>
+  
+  
+  
   
 </p>
 <p align="center">

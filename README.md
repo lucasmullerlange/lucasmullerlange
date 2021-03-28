@@ -15,12 +15,18 @@
   </a>
    <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> 
   </a>
+  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg width="40" height="40"/> 
+  </a>
   </p>
 <h3 align="center">Tools for prototype <h3>
-  <p align="align">
+  <p align="center">
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
   </a>
 </p>
+ <h3 align="center">Tools that I development the programming language<h3>
+  <p align="center">
+  <a href="https://www.w3schools.com/css/" target=""><img src="" width="30" height="30"/> 
+  </a>
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasLange&show_icons=true" alt="LucasLange"/>
 </p>

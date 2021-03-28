@@ -10,7 +10,7 @@
  </a>
  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="35" height="35"/>
  </a>
-  <a href="https://www.w3schools.com/css/" target=""><img href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css" width="30" height="30"/> 
+  <a href="https://www.w3schools.com/css/" target=""><img href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" height="30"/> 
   </a>
  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
    <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> 

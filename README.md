@@ -19,7 +19,7 @@
   </a>
   </p>
 <h3 align="center">Tools for prototype <h3>
- <p aling="left">
+ 
  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
   </a>
 </p>

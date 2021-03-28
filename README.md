@@ -23,9 +23,9 @@
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
   </a>
 </p>
- <h3 align="center">Tools that I development the programming language<h3>
+ <h3 align="center">OS<h3>
   <p align="center">
-  <a href="https://www.w3schools.com/css/" target=""><img src="" width="30" height="30"/> 
+  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"/> 
   </a>
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasLange&show_icons=true" alt="LucasLange"/>

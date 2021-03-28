@@ -1,11 +1,10 @@
 <h1 align="center" border="1px ">  📌 Welcome to my github 📌 <h1> 
-
 <h3 align="center" border="1px"> Human developing the machine 💻   <h3> 
- 
 <h3 align="center" border="1px"> English speaker 🇬🇧 🇺🇸  <h3> 
-
 <h3 align="center"> Platform tools <h3>
 <p align="center">
+ <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+ </a>
  <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
  </a>
  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
@@ -17,8 +16,7 @@
   </a>
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="50" height="50"/> 
   </a>
-  <a href="https://www.w3schools.com/html/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> 
-  </a>
+ 
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasLange&show_icons=true" alt="LucasLange"/>

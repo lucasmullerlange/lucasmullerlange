@@ -16,8 +16,10 @@
   </a>
    <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> 
   </a>
- <h3 align="center"> <h3>
-  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="50" height="50"/> 
+  </p>
+<h3 align="center">Tools for prototype <h3>
+ <p aling="center">
+ <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
   </a>
 </p>
 <p align="center">

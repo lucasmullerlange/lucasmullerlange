@@ -15,7 +15,7 @@
   </a>
    <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg width="40" height="40"/> 
+  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> 
   </a>
   </p>
 <h3 align="center">Tools for prototype <h3>

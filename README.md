@@ -1,5 +1,6 @@
-<h1 aling="center"> Hi there, I'm Lucas Lange 
-<h1 aling="center">  Living in Brazil 🇧🇷 </h1>  
+<h1 align="center"></h1>
+<h1 align="center"> Hi there, I'm Lucas Lange </h1>
+<h1 align="center">  Living in Brazil 🇧🇷 </h1>  
 <h4 align="center"> English speaker 🇬🇧 🇺🇸  <h4> 
 <h4 align="center"> Platform tools  <h4>
  </p>
@@ -25,10 +26,7 @@
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
   </a>
 </p>
- <h3 align="center">OS<h3>
-  <p align="center">
-  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="30" height="30"/> 
-  </a>
+
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LucasLange&show_icons=true" alt="LucasLange"/>
 </p>

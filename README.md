@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/language-HTML-red"/>
     <img src="https://img.shields.io/badge/language-css-blue"/>
 </p>
-<h3 align="center">About my building</h3>
+<h3 align="center">My project</h3>
 
 <p align="center">
-    <img src="" alt="lucaslange"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="lucaslange"/>
+    <<img src="" alt="lucaslange"/>
+     alt="lucaslange"/>
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lucasMullerLange&show_icons=true" alt="LucasLange"/>

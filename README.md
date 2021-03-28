@@ -11,8 +11,8 @@
  </a>
  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
  </a>
- <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> 
-   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+ <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
+   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/> 
   </a>
    <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> 
   </a>

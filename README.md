@@ -10,7 +10,7 @@
 <h3 align="center">My project</h3>
 
 <p align="center">
-    <<img src="" alt="lucaslange"/>
+    <img src="" alt="lucaslange"/>
      alt="lucaslange"/>
 </p>
 <p align="center">

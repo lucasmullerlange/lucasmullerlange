@@ -1,6 +1,7 @@
 <p aling="center">
-<h1 aling="center"> Hi there, I'm Lucas Lange 🧝‍♂️
+<h1 aling="center"> Hi there, I'm Lucas Lange 
   Live in Brazil 🇧🇷 <h1>
+</p>  
 <h4 align="center"> English speaker 🇬🇧 🇺🇸  <h4> 
 <h4 align="center"> Platform tools  <h4>
  </p>

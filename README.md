@@ -21,9 +21,7 @@
   <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> 
   </a>
   </p>
-<h3 align="center">Tools for prototype <h3>
-  <p align="center">
-  <a href="https://www.w3schools.com/css/" target=""><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg" width="30" height="30"/> 
+
   </a>
 </p>
 <p align="center">

@@ -9,7 +9,7 @@ I'm react native developer
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmullerlange&show_icons=true&theme=radical)](https://github.com/lucasmullerlange/github-readme-stats)
 
 social media:
 

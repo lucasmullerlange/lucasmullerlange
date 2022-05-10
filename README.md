@@ -1,8 +1,4 @@
-<h2 align="center"></h2>
-<h2 align="center"> Hi there, I'm Lucas Lange </h2>
-<h2 align="center">   Brazilian  🇧🇷 </h2>  
-<h2 align="center"> English speaker 🇬🇧 🇺🇸  <h2> 
-<h2 align="center"> Programming languages:  <h2>
+
  </p>
 <p align="center">
  <a href="https://www.w3schools.com/css/" target="_blanck"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>

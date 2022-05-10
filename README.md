@@ -1,13 +1,11 @@
 Hello dear, I'm Lucas Lange 
 
 I'm react native developer 
-
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmullerlange&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 

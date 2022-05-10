@@ -8,11 +8,8 @@
 </p>
 
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/lucas-lange-28a38a123/" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LucasLange" height="40" width="40" />
-    </a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical) 
+
 
 Social midias: 
 

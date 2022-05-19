@@ -10,7 +10,7 @@
 
 <div align="center">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical"/> 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical)
+     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical"/>
 </div>
 
 <h3 align="center">social media</h3>

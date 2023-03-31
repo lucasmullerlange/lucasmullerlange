@@ -12,6 +12,7 @@
 <div align="center">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical"/> 
     <img alt"Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmullerlange&layout=compact&theme=radical"/>
+    
 </div>
 
 
@@ -35,6 +36,9 @@
 
 ![Snake animation](https://github.com/lucasmullerlange/lucasmullerlange/blob/output/github-contribution-grid-snake.svg)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMullerLange&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasMullerLange&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasMullerLange&theme=darcula&utcOffset=8)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasmullerlange&theme=dracula&exclude=monokai
+
 

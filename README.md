@@ -36,7 +36,6 @@
 
 ![Snake animation](https://github.com/lucasmullerlange/lucasmullerlange/blob/output/github-contribution-grid-snake.svg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMullerLange&theme=darcula)
 
 
 

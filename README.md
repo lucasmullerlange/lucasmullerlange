@@ -36,3 +36,5 @@
 ![Snake animation](https://github.com/lucasmullerlange/lucasmullerlange/blob/output/github-contribution-grid-snake.svg)
 
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasmullerlange&theme=dracula&exclude=monokai
+

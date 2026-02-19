@@ -9,10 +9,7 @@
     <img alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </div>
 
-<div align="center">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lucasmullerlange&show_icons=true&theme=radical"/> 
-    <img alt"Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmullerlange&layout=compact&theme=radical"/>
-    
+<div align="center"> 
 </div>
 
 
